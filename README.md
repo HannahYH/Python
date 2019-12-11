@@ -1,2 +1,2 @@
 # Python
-Projects
+COMP9021 - Principles of Programming
